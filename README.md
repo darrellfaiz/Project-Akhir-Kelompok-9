@@ -34,5 +34,18 @@ Melalui aplikasi ini, diharapkan proses pengelolaan perpustakaan menjadi lebih p
 - Menerapkan konsep dasar pemrograman, seperti struktur data, fungsi, percabangan, perulangan, dan penanganan kesalahan.
 
 # Fitur per-Role
+---------------
+**Role Admin**
+
+
+
+
+# Output dan Penjelasan
+-OUTPUT UTAMA
+<img width="193" height="104" alt="image" src="https://github.com/user-attachments/assets/fc8d4f10-b114-4fcb-9a4e-f01f0b4a375f" />
+Login: Digunakan oleh pengguna yang sudah memiliki akun untuk masuk ke dalam sistem perpustakaan digital.
+Registrasi: Digunakan oleh pengguna baru untuk membuat akun agar dapat mengakses sistem.
+Keluar: Digunakan untuk mengakhiri atau menutup program.
+Lalu Pengguna Diminta untuk Menginput Pilihan 1-3 Untuk Lanjut
 
 # FLOWCHART
